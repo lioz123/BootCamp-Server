@@ -1,2 +1,4 @@
 config/config.env
+node_modlues/*
+node_modlues
 node_modlues/
